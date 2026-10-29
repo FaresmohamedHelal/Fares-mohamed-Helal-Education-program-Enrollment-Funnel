@@ -36,6 +36,6 @@ Group leader: Fares mohamed Helal
 
 ## Project Files
 - **ملفات الكود:** مرفقة مباشرة داخل هذا الـ Repository.
-- **روابط إضافية (إن وجدت):** 
-  - رابط Vercel للاستعراض المباشر: [ضع رابط Vercel إن وجد]
+- **روابط إضافية (إن وجدت):**
+- https://tiflila-training-options-1.vercel.app/
   - رابط Figma والتصميمات: [ضع رابط Figma إن وجد]
