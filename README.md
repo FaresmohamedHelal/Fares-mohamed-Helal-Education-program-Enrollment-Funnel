@@ -23,7 +23,7 @@ Group leader: Fares mohamed Helal
 - **المرحلة الرابعة:** الاختبار والمراجعة النهائية والتأكد من استجابة القمع على جميع الأجهزة.
 
 ## Roles & Responsibilities
-- **فارس محمد هلال:** تخطيط وتنفيذ قمع التسجيل، بناء وتطوير صفحة الهبوط، وإدارة المستودع والملفات
+- **فارس محمد هلال:**landong page 
 احمد نور الدين **Marketing planا
 ايمان عبد الجميد** Automation
 ## KPIs
@@ -36,4 +36,4 @@ Group leader: Fares mohamed Helal
 
 ## Project Files
 (https://drive.google.com/drive/folders/1pBESbdWbuhGJL3UWY9BpLKfgc9kCjblQ?usp=drive_link)
-- https://tiflila-training-options-1.vercel.app/
+https://tafsilabrandkit.vercel.app/
